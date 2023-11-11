@@ -1,0 +1,83 @@
+body {
+    background-color: lightcyan;
+    font-family: 'Caveat', cursive;
+
+    font-family: 'Neucha', cursive;
+    font-family: 'Nunito', sans-serif;
+}
+
+
+div.head {
+    background-color: bisque;
+    border-radius: 16px;
+}
+
+h1 {
+    text-align: center
+}
+
+img {
+    width: 200px;
+    border-radius: 10px;
+}
+
+div.tea {
+    border-radius: 10px;
+    
+
+}
+
+
+
+div.img1 {
+    
+   
+    background-color: aquamarine;
+    border-radius: 10px;
+}
+
+div.img2 {
+     
+    
+    background-color: burlywood;
+    border-radius: 10px;
+}
+
+div.img3 {
+    
+    
+    background-color: mediumspringgreen;
+    border-radius: 10px;
+}
+
+div.img4 {
+    
+    
+    background-color: orange;
+    border-radius: 10px;
+}
+div.img5 {
+    
+    
+    background-color: rgb(221, 0, 250);
+    border-radius: 10px;
+}
+
+div.img6 {
+    background-color: rgb(250, 50, 0);
+    border-radius: 10px;
+
+}
+
+
+div.img7 {
+    background-color: rgb(154, 250, 0);
+    border-radius: 10px;
+
+}
+
+div.img8 {
+    background-color: rgb(250, 0, 250);
+    border-radius: 10px;
+
+}
